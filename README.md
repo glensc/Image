@@ -70,7 +70,7 @@ The other methods available are:
 
 * `negate()`: negates the image colors
 
-* `brighness($b)`: applies a brightness effect to the image (from -255 to +255)
+* `brightness($b)`: applies a brightness effect to the image (from -255 to +255)
 
 * `contrast($c)`: applies a contrast effect to the image (from -100 to +100)
 
